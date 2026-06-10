@@ -27,7 +27,7 @@ RU: Это скрипт для автоматизации выгрузки из 
 
 **Note: This repository contains an anonymized version of a real-world business project. All sensitive data has been replaced with synthetic datasets to comply with NDA requirements, while preserving the original logic and analytical methodology.**
 
-<img width="242" height="622" alt="Scheme" src="https://github.com/user-attachments/assets/3411a1f8-0e05-4923-a03f-5c5de82bafab" />
+<img width="242" height="622" alt="576480594-3411a1f8-0e05-4923-a03f-5c5de82bafab" src="https://github.com/user-attachments/assets/30adf748-43d5-434e-9089-7a7ec5aaecc5" />
 
 **It gives cummulative results strating from the 1st of January. Example: if you need the report for January, February, and March, it will upload as follow: 1st file (01 Jan 2025 - 31 Jan 2025), 2nd file (01 Jan 2025 - 28 Feb 2025), 3rd file (01 Jan 2025 - 31 March 2025).**
 
@@ -35,7 +35,9 @@ RU: Это скрипт для автоматизации выгрузки из 
 
 **This is the image of the path in SAP where you can launch this script amended with your plants' name and other data.** 
 Это путь в SAP через который вы можете запустить скрипт как обычный макрос, предварительно исправив код под ваши данные:
-![SAP_Scripting](https://github.com/user-attachments/assets/830db254-0be5-4f00-bc9a-87f02772c458)
+
+<img width="1043" height="542" alt="576425394-830db254-0be5-4f00-bc9a-87f02772c458" src="https://github.com/user-attachments/assets/49df2e40-abc8-4f2e-8838-deab0f97288d" />
+
 
 The data to amend / Данные в коде для корректировки: 
 1) the codes of the plants as it is in your system / коды заводов, как в вашей системе. Example: "0201", "0255"
